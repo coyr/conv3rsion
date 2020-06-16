@@ -9,12 +9,9 @@ body {
   text-align: center;
 }
 .logo {
-  background: url(../img/conv3rsion-10-nov.svg) no-repeat;
+  background: url(/img/conv3rsion-10-nov.svg) no-repeat;
 }
 
-a:visited {
- color: red;
-}
 .btn {
   display: inline-block;
   color: #fff;
