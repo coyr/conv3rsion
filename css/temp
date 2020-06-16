@@ -1,0 +1,66 @@
+
+
+html{
+  background: #5033D2;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  color:#7a838e;
+  -webkit-font-smoothing: antialiased
+  text-align: center;
+}
+.logo {
+  background: url(../img/conv3rsion-10-nov.svg) no-repeat;
+}
+a {
+  text-decoration:none;
+  padding: 10px 20;
+}
+.content {text-align: center;}
+a:visited {
+ color: #4B2E8A;
+}
+.btn {
+  display: inline-block;
+  color: #fff;
+  padding: 10px 20px 10px;
+  margin: 0 10px;
+  font-size: 40px;
+  width: 0 auto;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-wp {
+  background-color: #33D26B;
+}
+
+.channel-brand {
+  width: 200px;
+  display: inline-block;
+}
+
+/* @group text */
+a {
+	color:#023D4C;
+	text-decoration: none;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color:#001837;
+}
+h1 {
+	font-size: 24px;
+	padding: 15px 0 10px 0;
+}
+
+h2 a {
+	border-bottom: 1px dotted #000;
+}
+h3 a {
+	color:#666;
+}
+
+/* @end text */ 
