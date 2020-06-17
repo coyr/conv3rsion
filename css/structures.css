@@ -83,15 +83,16 @@ p {
   padding: 5px 10px;
   color: #9C8BE7;
 }
-.active {
+.language .active {
   font-weight: bold;
   display: inline-block;
   background-color: #C2B9F1; 
   border-radius: 8px;
-  color: #33229F;
   margin: 0;
 }
-
+.language .active a {
+  color: #33229F;
+}
 footer {
   font-size: 11px;
   margin: 50px 15px 10px;
