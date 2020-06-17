@@ -42,6 +42,9 @@ h1 {
 	font-size: 24px;
 	padding: 15px 0 10px 0;
 }
+h2 {
+  font-size: 20px;
+}
 a {
   text-decoration:none;
   padding: 10px 20;
@@ -71,4 +74,10 @@ p {
   padding: 5px 10px;
   color: #33229F;
   margin: 0 5px;
+}
+.logo-picture img {
+  width: 400px;
+}
+.language-menu {
+  margin-top: 0;
 }
