@@ -89,9 +89,10 @@ p {
   background-color: #C2B9F1; 
   border-radius: 8px;
   margin: 0;
-}
-.language .active a {
   color: #33229F;
+}
+.language .active {
+  
 }
 footer {
   font-size: 11px;
