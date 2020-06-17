@@ -83,16 +83,13 @@ p {
   padding: 5px 10px;
   color: #9C8BE7;
 }
-.language .active {
+.language-menu .active {
   font-weight: bold;
   display: inline-block;
   background-color: #C2B9F1; 
   border-radius: 8px;
   margin: 0;
   color: #33229F;
-}
-.language .active {
-  
 }
 footer {
   font-size: 11px;
