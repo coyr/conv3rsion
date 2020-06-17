@@ -92,8 +92,10 @@ p {
   color: #33229F;
 }
 footer {
-  font-size: 11px;
+  width:800px;
+  font-size: 14px;
   margin: 50px 15px 10px;
   border-top: 1px solid #765EDC;
   padding: 10px 0 10px;
+  margin: 0 auto;
 }
