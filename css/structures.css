@@ -4,7 +4,7 @@ html{
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 130%;
-  color: #fff;
+  color: #DDD7F8;
   -webkit-font-smoothing: antialiased;
   text-align: center;
 }
@@ -48,14 +48,10 @@ h2 {
 a {
   text-decoration:none;
   padding: 10px 20;
-  color: #9C8BE7;
+  color: #fff;
 }
-h2 a {
-	border-bottom: 1px dotted #000;
-}
-h3 a {
-	color:#666;
-}
+
+
 p {
   margin: 2em 0;
 }
@@ -66,18 +62,38 @@ p {
   margin: 0 auto;
 }
 
+.logo-picture img {
+  width: 400px;
+}
+.logo-picture {
+  display: block;
+}
+
+.language-menu {
+  margin-top: 0;
+  display:inline-block;
+  text-align: center;
+  padding: 2px;
+  background-color: #33229F;
+  width: 0 auto;
+  border-radius: 10px;
+}
+.language-menu a {
+  font-size: 12px;
+  padding: 5px 10px;
+}
 .active {
   font-weight: bold;
   display: inline-block;
   background-color: #C2B9F1; 
   border-radius: 8px;
-  padding: 5px 10px;
   color: #33229F;
-  margin: 0 5px;
+  margin: 0;
 }
-.logo-picture img {
-  width: 400px;
-}
-.language-menu {
-  margin-top: 0;
+
+footer {
+  font-size: 11px;
+  margin: 50px 15px 10px;
+  border-top: 1px solid #765EDC;
+  padding: 10px 0 10px;
 }
